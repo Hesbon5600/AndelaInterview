@@ -24,6 +24,5 @@ def pig_latin(string):
             num_of_qmarks += 1
     # Return True or False based on the value of "sum_is_10"
     return sum_is_10
-
     
  
