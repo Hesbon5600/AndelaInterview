@@ -9,7 +9,7 @@ valid = []   #Store the valid password(s)
 def password_validate(passwords):
 
     #flag is true if the conditions are met 
-    #Otherwise, flag is set to false
+    #Otherwise, flag is set to False
     flag = True 
     
     i = 0 
