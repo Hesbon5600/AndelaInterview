@@ -28,6 +28,5 @@ class TestPassword(unittest.TestCase):
         self.assertEqual(password_validate(password), True)
 
 
-
 if __name__ == "__main__":
     unittest.main()
