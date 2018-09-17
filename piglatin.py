@@ -26,3 +26,4 @@ def pig_latin(string):
     return sum_is_10
 
     
+ 
