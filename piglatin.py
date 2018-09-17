@@ -1,3 +1,7 @@
+# Take an input string parameter and determine if exactly 3 
+# question marks exist between every pair of numbers that add up to 10. 
+# If so, return true, otherwise return false
+
 def pig_latin(string):
     num_of_qmarks = 0
     current_num = 0
