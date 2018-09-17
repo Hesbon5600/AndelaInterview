@@ -14,6 +14,7 @@ def deliver_presents_recursively(houses):
         first_half = houses[:mid]
         second_half = houses[mid:]
 
+
         # Divides his work among two elves
         deliver_presents_recursively(first_half)
         deliver_presents_recursively(second_half)

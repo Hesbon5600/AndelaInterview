@@ -12,3 +12,4 @@ def tripple_check(lst):
 
             return i
 
+

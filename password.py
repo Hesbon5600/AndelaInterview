@@ -14,7 +14,7 @@ def password_validate(passwords):
     
     i = 0 
 
-    #Looping through the list to verify each password
+     #Looping through the list to verify each password
     while i <  len(passwords):  
 
         #Length must be more than 6 chars but less than 12 chars
