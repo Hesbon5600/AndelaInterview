@@ -25,5 +25,4 @@ def pig_latin(string):
     # Return True or False based on the value of "sum_is_10"
     return sum_is_10
 
-
     
