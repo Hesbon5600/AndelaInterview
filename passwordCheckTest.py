@@ -16,7 +16,7 @@ class TestPassword(unittest.TestCase):
         self.assertEqual(password_validate(password4), False)
         
         #password without an uppercase character
-        password5 = ["jhbkj234@1", "mnbmk1234@1"]
+        password5 = ["jhbkj234@1", "mnbmk1634@1"]
         self.assertEqual(password_validate(password5), False)
 
         #Password without a number
